@@ -1,0 +1,72 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+
+<div class="row" id="profile">
+    
+    <!-- Some content -->
+    <div class="col-sm-6">
+        <h6 id="profile-header"> Profile </h6>
+        <p id="profile-description">
+            {{ $page.Content }}</p><br>
+        <p> |<a href="https://twitter.com/jotarout">Twitter</a> |
+            <a href="https://github.com/JotaroS">Github</a> |
+            e-mail : jotaro[at]cyber.t.u-tokyo.ac.jp</p>
+    </div>
+     {{ with $.Site.Params.avatar }}
+    <div class="col-sm-6" id="profile-image">
+        <img src="{{ "img/" | relURL }}{{ . }}" alt="jotaro.jpg">
+    </div>
+    {{ end }}
+    
+</div>
+
+<!-- Research interest and education section -->
+<div class="row" id="interest-education">
+    {{ with $page.Params.interests}}
+    <div class="col-sm-6">
+        <h6> Research Field / Interests</h6>
+        <ul>
+            {{range .interests}}
+            <li>{{.}}</li>
+            {{end}}
+        </ul>
+    </div>
+    {{end}}
+    {{ with $page.Params.education }}
+    <div class="col-sm-6">
+        <h6> Education </h6>
+        <ul>
+            {{ range .courses }}
+            <li>
+                <!-- <i class="fa-li fa fa-graduation-cap"></i> -->
+                <div class="description">
+                    <p class="course">{{ .course }}{{with .year }}, {{ . }} {{ end }}</p>
+                    <p class="institution">{{ .institution }}</p>
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+</div>
+
+<!-- Awards and honors -->
+<div class="row">
+    <div class="col-sm-12">
+        <h6> Awards and honors </h6>
+        {{with $page.Params.honors}}
+        <ul>
+            {{range .awards}}
+            <li>
+                <!-- <i class="fa-li fa fa-graduation-cap"></i> -->
+                <div class="description">
+                    <p class="course">{{ .name }}{{with .year}}, {{ . }} {{ end }}</p>
+                    <p class="institution">{{ .description }}</p>
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+        {{end}}
+    </div>
+</div>

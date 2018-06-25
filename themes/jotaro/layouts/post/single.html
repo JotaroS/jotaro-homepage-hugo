@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/custom.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300|Open+Sans" rel="stylesheet">
+    <title>{{ .Title }}</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Navigation bar -->
+        <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="/">Jotaro Shigeyama</a>
+
+            <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto" id="navigator">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/post">Blog</a>
+                    </li>
+
+                    <!-- You can add more here when needed. -->
+
+                </ul>
+            </div>
+        </nav>
+
+<div id="container-single">
+    <h1>{{ .Title }}</h1>
+    <h2 id="date-content">-{{ .Date.Format "Mon, Jan 2, 2006" }}-</h2>
+    {{ .Content }}
+</div>
+<br><br>
+<p id="footer-copyright">
+    <center>Jotaro Shigeyama 2017, All Right Reserved.</center>
+</p>
+{{ partial "footer.html" .}}
