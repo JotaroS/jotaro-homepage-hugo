@@ -21,6 +21,8 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
+- one conditionally accepted paper for UIST 2018, Berlin.
+
 - __Jotaro Shigeyama__, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
 __Publications / Journals__ _(No Review)_
@@ -44,6 +46,12 @@ __Poster / Demo__ _(Peer Reviewed)_
 __Poster / Demo__ _(No Review)_
 
 - 小川奈美，__茂山丈太郎__，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
+
+__Exhibitions / Invited Exhibitions__
+
+- bryophytes.io, iiiExhibition 2017, The University of Tokyo
+
+- ゆらゆら立体灯，マジカリアル～ＶＲ・ＡＲが作り出す不思議体験～，SKIPシティ 彩の国ビジュアルプラザ　映像ミュージアム
 
 __Talks__
 
