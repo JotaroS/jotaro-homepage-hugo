@@ -71,7 +71,21 @@ __Grants__
 
 - Grant of scholarship from Hasso Plattner Institute
 
+__Academic Services__
+
+_Conference Organizers_
+
+ - UIST2018 ___Registration Co-Chair___
+
+_Reviewer_
+
+ - ??? (to appear)
+
+ _Student Volunteer_
+
+ - CHI2018 Student Volunteer
+
 __Others__
 
-- CHI2018 Student Volunteer
+
 - Japan Olympiad in Informatics 2010-2011, Finalist
