@@ -23,29 +23,29 @@ __Publications / Journals__ _(Peer Reviewed)_
 
 - one conditionally accepted paper for UIST 2018, Berlin.
 
-- __Jotaro Shigeyama__, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
+- <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
 __Publications / Journals__ _(No Review)_
 
-- __Jotaro Shigeyama__, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Basic study of presenting pseudo-haptic feedback by modifying body posture, ITE technical report, June 2017
+- <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Basic study of presenting pseudo-haptic feedback by modifying body posture, ITE technical report, June 2017
 
 __Poster / Demo__ _(Peer Reviewed)_
 
-- __Jotaro Shigeyama__, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies. <u>___SIGGRAPH Student Research Competition Semi-Finalist___</u> _(TO APPEAR)_
 
-- __Jotaro Shigeyama__, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster _(TO APPEAR)_
 
-- Yuji Suzuki, __Jotaro Shigeyama__, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Food Texture Manipulation by Face Deformation, SIGGRAPH 2018 Poster _(TO APPEAR)_
+- Yuji Suzuki, <u>__Jotaro Shigeyama__</u>, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Food Texture Manipulation by Face Deformation, SIGGRAPH 2018 Poster _(TO APPEAR)_
 
-- Nami Ogawa, __Jotaro Shigeyama__, Takuji Narumi and Michitaka Hirose: Swinging 3D Lamps: A Projection Technique to Create 3D Illusions on a Static 2D Image, SIGGRAPH Asia 2017 Emerging Technologies, November 2017
+- Nami Ogawa, <u>__Jotaro Shigeyama__</u>, Takuji Narumi and Michitaka Hirose: Swinging 3D Lamps: A Projection Technique to Create 3D Illusions on a Static 2D Image, SIGGRAPH Asia 2017 Emerging Technologies, November 2017
 
-- __Jotaro Shigeyama__, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting a pseudo-haptic feedback in immersive VR environment by modifying avatar's joint angle, IEEE World Haptics 2017, June 2017
+- <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting a pseudo-haptic feedback in immersive VR environment by modifying avatar's joint angle, IEEE World Haptics 2017, June 2017
 
-- __Jotaro Shigeyama__, Designing of English Education Supporting System using Multitouch System, Creative Engineering Design Competition, Kokura, Dec.2011 ___The Best Aesthetic Award___
+- <u>__Jotaro Shigeyama__</u>, Designing of English Education Supporting System using Multitouch System, Creative Engineering Design Competition, Kokura, Dec.2011 ___The Best Aesthetic Award___
 
 __Poster / Demo__ _(No Review)_
 
-- 小川奈美，__茂山丈太郎__，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
+- 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
 
 __Exhibitions / Invited Exhibitions__
 
@@ -55,9 +55,9 @@ __Exhibitions / Invited Exhibitions__
 
 __Talks__
 
-- __Jotaro Shigeyama__, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations _(TO APPEAR)_
 
-- 小川奈美，__茂山丈太郎__，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
+- 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
 
 __Awards and honors__
 
