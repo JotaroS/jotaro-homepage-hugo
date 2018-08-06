@@ -75,15 +75,15 @@ __Academic Services__
 
 _Conference Organizers_
 
- - UIST2018 ___Registration Co-Chair___
+ - ACM UIST2018 ___Registration Co-Chair___
 
 _Reviewer_
 
- - ??? (to appear)
+ - ACM SIGGRAPH Asia 2018
 
  _Student Volunteer_
 
- - CHI2018 Student Volunteer
+ - ACM CHI2018 Student Volunteer
 
 __Others__
 
