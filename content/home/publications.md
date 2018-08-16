@@ -21,7 +21,7 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- one conditionally accepted paper for UIST 2018, Berlin.
+- one accepted paper for UIST 2018, Berlin.
 
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
@@ -31,11 +31,11 @@ __Publications / Journals__ _(No Review)_
 
 __Poster / Demo__ _(Peer Reviewed)_
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies. <u>___SIGGRAPH Student Research Competition Semi-Finalist___</u> _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies, August 2018
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster, August 2018, <u style="background-color:#ddd">___SIGGRAPH Student Research Competition Semi-Finalist___</u>
 
-- Yuji Suzuki, <u>__Jotaro Shigeyama__</u>, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Food Texture Manipulation by Face Deformation, SIGGRAPH 2018 Poster _(TO APPEAR)_
+- Yuji Suzuki, <u>__Jotaro Shigeyama__</u>, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Food Texture Manipulation by Face Deformation, SIGGRAPH 2018 Poster, August 2018
 
 - Nami Ogawa, <u>__Jotaro Shigeyama__</u>, Takuji Narumi and Michitaka Hirose: Swinging 3D Lamps: A Projection Technique to Create 3D Illusions on a Static 2D Image, SIGGRAPH Asia 2017 Emerging Technologies, November 2017
 
