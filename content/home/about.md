@@ -59,7 +59,7 @@ weight = 1
 +++ 
 
 <!-- Your profile description here... -->
-Jotaro Shigeyama (born in 1993) is currently a Master's student in University of Potsdam / Cyber Interface Lab, the University of Tokyo. He is also a Ph.D candidate in Hasso Plattner Institute in University of Potsdam, with Prof. Patrick Baudisch.
+Jotaro Shigeyama (born in 1993) is currently a Master's student at Hasso Plattner Institute in University of Potsdam / Cyber Interface Lab, the University of Tokyo. He is also a Ph.D candidate in Hasso Plattner Institute in University of Potsdam, with Prof. Patrick Baudisch.
 He is studying computer science in the graduate school of The University of Tokyo, after finished Associate degree in mechanical and electrical engineering in Tokuyama college of technology and Bachelor's degree in mechano-informatics engineering in the University of Tokyo with Prof. Michitaka Hirose. He received _HATAKEYAMA_ award for his academic excellency in mechanical engineering.
-His project was presented in various top-tier international conference including ACM SIGGRAPH, ACM UIST and IEEE WorldHaptics.
+His project was presented in various top-tier international conference including ACM SIGGRAPH / UIST and IEEE WorldHaptics.
 His current research area is haptic experience, virtual reality and human computer interaction.

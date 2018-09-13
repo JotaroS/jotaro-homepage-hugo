@@ -21,7 +21,8 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- one accepted paper for UIST 2018, Berlin.
+- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Jan Roumen, Sebastian Marwecki, Nico Boeckhoff, Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, 
+In Proceedings of UIST'18, October, ___TO APPEAR___
 
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
@@ -53,11 +54,17 @@ __Exhibitions / Invited Exhibitions__
 
 - ゆらゆら立体灯，マジカリアル～ＶＲ・ＡＲが作り出す不思議体験～，SKIPシティ 彩の国ビジュアルプラザ　映像ミュージアム
 
+- Agricultural Revolution 3.0 "第三の農業革命 もう一つの未来に映る 希望的な世界", Farmbot, 山形県鶴岡市, [http://agri-revolution3.com/](http://agri-revolution3.com/)
+
 __Talks__
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations _(TO APPEAR)_
 
 - 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
+
+__Articles__
+
+- 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
 __Awards and honors__
 
