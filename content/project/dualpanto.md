@@ -9,7 +9,7 @@ title = "DualPanto: A Haptic Device that Enables Blind Users to Continuously Int
 summary = "We present a new haptic device that enables blind users to continuously track the absolute position of moving objects in spatial virtual environments, as is the case in sports or shooter games."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "comingsoon.png"
+image_preview = "dualpanto.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
