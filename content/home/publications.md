@@ -21,8 +21,7 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Jan Roumen, Sebastian Marwecki, Nico Boeckhoff, Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, 
-In Proceedings of UIST'18, October, ___TO APPEAR___
+- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
@@ -31,6 +30,8 @@ __Publications / Journals__ _(No Review)_
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Basic study of presenting pseudo-haptic feedback by modifying body posture, ITE technical report, June 2017
 
 __Poster / Demo__ _(Peer Reviewed)_
+
+- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies, August 2018
 
@@ -50,6 +51,8 @@ __Poster / Demo__ _(No Review)_
 
 __Exhibitions / Invited Exhibitions__
 
+- Transcalibur, 東京大学バーチャルリアリティ教育研究センター設立記念式典-東京大学が挑戦するバーチャルリアリティの未来-
+
 - bryophytes.io, iiiExhibition 2017, The University of Tokyo
 
 - ゆらゆら立体灯，マジカリアル～ＶＲ・ＡＲが作り出す不思議体験～，SKIPシティ 彩の国ビジュアルプラザ　映像ミュージアム
@@ -58,7 +61,7 @@ __Exhibitions / Invited Exhibitions__
 
 __Talks__
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations _(TO APPEAR)_
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations, August 2018.
 
 - 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
 
@@ -66,7 +69,19 @@ __Articles__
 
 - 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
+__Patents__
+
+- (TO APPEAR)
+
+__Media__
+
+- [DualPanto is a non-visual gaming interface for the blind](https://blog.arduino.cc/2018/10/22/dualpanto-is-a-non-visual-gaming-interface-for-the-blind/), Arduino Blog, 2018
+
+- [東京大学、1台のハンドヘルドコントローラでVR内の様々な形状の触覚を再現できるVRデバイスを発表](https://shiropen.com/seamless/vr-transcalibur) ,Seamless, 2018
+
 __Awards and honors__
+
+- SIGGRAPH Student Research Competition (SRC) Semi-Finalist for _Transcalibur_, 2018
 
 - U-Tokyo Architecture graduation work ___NAKAMURA-TATSUTARO___ Award for Project:CoPRO : collaborated with _Takato Ishida_
 
@@ -74,14 +89,16 @@ __Awards and honors__
 
 - ___HATAKEYAMA___ Award (JSME _Best student award_ ), Mar,2014
 
-__Grants__
+__Fellowship and Grants__
 
+- Fellowship of [Funai Foundation for Information Technology](https://funaifoundation.jp/) (2019-, top <10% Ph.D applicants for abroad in Japan)
 - Grant of scholarship from Hasso Plattner Institute
 
 __Academic Services__
 
-_Conference Organizers_
+_Organizing Committees_
 
+ - ACM UIST2019 ___Registration Chair___
  - ACM UIST2018 ___Registration Co-Chair___
 
 _Reviewer_
@@ -93,6 +110,5 @@ _Reviewer_
  - ACM CHI2018 Student Volunteer
 
 __Others__
-
 
 - Japan Olympiad in Informatics 2010-2011, Finalist
