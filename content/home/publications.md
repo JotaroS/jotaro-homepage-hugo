@@ -21,6 +21,8 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
+- One conditionally accepted paper for CHI2019, Glasgow, United Kingdom
+
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
@@ -67,6 +69,8 @@ __Talks__
 
 __Articles__
 
+- TO APPEAR in VRSJ
+
 - 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
 __Patents__
@@ -74,6 +78,7 @@ __Patents__
 - (TO APPEAR)
 
 __Media__
+- [HPIなど、視覚障害者向けのVR触覚デバイスを発表。上部ハンドルで自身のアバターを動かし、下部ハンドルで他の物体の動きを知覚](https://shiropen.com/seamless/dualpanto), Seamless, 2019
 
 - [DualPanto is a non-visual gaming interface for the blind](https://blog.arduino.cc/2018/10/22/dualpanto-is-a-non-visual-gaming-interface-for-the-blind/), Arduino Blog, 2018
 
