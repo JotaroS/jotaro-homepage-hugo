@@ -69,7 +69,7 @@ __Talks__
 
 __Articles__
 
-- TO APPEAR in VRSJ
+- ワクワク留学体験記, 日本バーチャルリアリティ学会　学会誌, To Appear
 
 - 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
@@ -78,6 +78,7 @@ __Patents__
 - (TO APPEAR)
 
 __Media__
+
 - [HPIなど、視覚障害者向けのVR触覚デバイスを発表。上部ハンドルで自身のアバターを動かし、下部ハンドルで他の物体の動きを知覚](https://shiropen.com/seamless/dualpanto), Seamless, 2019
 
 - [DualPanto is a non-visual gaming interface for the blind](https://blog.arduino.cc/2018/10/22/dualpanto-is-a-non-visual-gaming-interface-for-the-blind/), Arduino Blog, 2018
