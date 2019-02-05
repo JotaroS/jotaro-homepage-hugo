@@ -10,9 +10,29 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
     crossorigin="anonymous"></script>
 <script src="/js/custom.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  displayIndent: "2em",
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  },
+  "HTML-CSS": {
+    availableFonts: [],
+    webFont: "Neo-Euler",
+    mtextFontInherit: true,
+    matchFontHeight: false,
+    scale:120
+  }
+});
+</script>
+<script type="text/javascript"
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
 </script>
 
+<script type="text/javascript" src="/js/prism.js"></script>
+<p id="footer-copyright" align="right">Jotaro Shigeyama, 2019, All Right Reserved.</p>
 </div>
 </body>
 

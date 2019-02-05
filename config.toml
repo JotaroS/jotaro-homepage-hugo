@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Jotaro Shigeyama"
-  role = "Student, Engineer, Creator"
+  role = "Student, Engineer, Creator, Researcher"
   organization = "Cyber Interface Lab,The University of Tokyo"
   organization_url = "http://www.cyber.t.u-tokyo.ac.jp"
   avatar = "jotaro.jpg"
@@ -84,8 +84,8 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = [""]
-  custom_js  = [""]
+  custom_css = ["css/custom.css"]
+  custom_js  = ["js/custom.js"]
 
   # Publication types.
   #   Used to categorize publications.

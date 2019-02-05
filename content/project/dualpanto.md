@@ -6,7 +6,7 @@ date = "2018-08-20"
 title = "DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds"
 
 # Project summary to display on homepage.
-summary = "We present a new haptic device that enables blind users to continuously track the absolute position of moving objects in spatial virtual environments, as is the case in sports or shooter games. <br><br> Full-Paper presented in UIST 2018, Berlin"
+summary = "We present a new haptic device that enables blind users to continuously track the absolute position of moving objects in spatial virtual environments, as is the case in sports or shooter games. <br><br> Full-Paper presented in UIST 2018, Berlin, Germany"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pantograph.png"

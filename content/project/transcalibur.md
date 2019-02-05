@@ -6,7 +6,7 @@ date = "2018-07-01"
 title = "Transcalibur"
 
 # Project summary to display on homepage.
-summary = "Weight Moving VR Controller for Dynamic Rendering of 2D Shape Using Haptic Shape Illusion"
+summary = "Weight Moving VR Controller for Dynamic Rendering of 2D Shape Using Haptic Shape Illusion <br><br><br><br> Full-Paper will be presented in CHI 2019, Glasgow, Scotland"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "transcalibur.jpg"

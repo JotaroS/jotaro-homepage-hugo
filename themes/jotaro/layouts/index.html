@@ -6,7 +6,7 @@
         {{ $widget := printf "widgets/%s.html" ( or $page.Params.widget "custom" ) }}
                 {{ partial $widget $params }}
         {{end}}
-        <p id="footer-copyright"><center>Jotaro Shigeyama 2017, All Right Reserved.</center></p>
+        <!-- <p id="footer-copyright"><center>Jotaro Shigeyama 2017, All Right Reserved.</center></p> -->
         <br>
     </div>
 {{ partial "footer.html" .}}
