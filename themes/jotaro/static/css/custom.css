@@ -53,7 +53,7 @@ body{
 }
 p,li,.description{
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 9pt;
+    font-size: 10pt;
     letter-spacing: 0.05em;
     text-align: justify;
     line-height: 1.7em;
@@ -131,7 +131,9 @@ img{
   width: 100%;
   min-height: 200px;
   /* height: 150px; */
-  object-fit: cover; /* この一行を追加するだけ！ */
+  object-fit: cover;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 .container #container-single a{

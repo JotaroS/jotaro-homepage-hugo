@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+
+{{ if .Params.header.image }}
+<div class="article-header">
+  <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
+  {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+</div>
+{{end}}
+
+<div class="universal-wrapper">
+
+  <h4>{{ .Title | default (i18n "posts") }}</h4>
+
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range $paginator.Pages }}
+  <div>
+    {{ if .Params.image }}
+    <a href="{{ .Permalink }}">
+      <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="article-banner">
+    </a>
+    {{end}}
+    <h6><a href="{{ .Permalink }}">{{ .Title }}</a></h6>
+    <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+  </div>
+  <hr>
+  {{ end }}
+
+</div>
+<!-- {{ partial "footer_container.html" . }} -->
+{{ partial "footer.html" . }}

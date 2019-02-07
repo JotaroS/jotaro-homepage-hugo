@@ -10,11 +10,12 @@
     <title>Jotaro's Portfolio Website</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
         crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="/css/prism.css"> -->
-    <!-- <link rel="stylesheet" href="/css/custom.css"> -->
+    <link rel="stylesheet" href="/css/prism.css">
     {{ range .Site.Params.custom_css }}
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
     {{ end }}
+
+    <script type="text/javascript" src="/js/prism.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,500" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
