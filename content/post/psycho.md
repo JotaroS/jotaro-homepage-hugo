@@ -53,7 +53,7 @@ $$  x =
 0, & \text{with probability  $1-p$}
 \end{cases}$$
 
-このように、一定の確率で$X=1$が得られ、それ以外の場合は$X=0$となる確率分布はベルヌーイ分布として知られている。つまりこの実験において「人間の重さの感覚処理はベルヌーイ分布に従う」と仮定している。
+このように、一定の確率で$X=1$が得られ、それ以外の場合は$X=0$となる確率分布はベルヌーイ分布として知られている。つまりこの実験において「人間の重さの感覚処理はベルヌーイ分布に従う」と仮定している。$X$を確率変数として記述すると、
 
 $$  {\rm Bern}(X | p) =
 \begin{cases}
@@ -265,7 +265,7 @@ post_theta
 今回は限定的に、実験において一定の刺激のみを提示したが、実際に弁別閾を測定したり、感覚強度曲線をプロットするときは、曲線パラメータの推定が必要になる。
 そのような場合は今回のように直接的にモデルをたてることが難しくなる場合がある。また、事後確のの計算や統計モデルの妥当性検討・逸脱度検定なども必要になるために、MCMCやBootstrap法といったテクニックも必要になってくる。次回の記事ではそのあたりに触れて、実際に感覚強度曲線のベイズ推論について書く。
 
-参考文献
+### 参考文献
 
 - Wichmann, Felix A., and N. Jeremy Hill. "The psychometric function: I. Fitting, sampling, and goodness of fit." Perception & psychophysics 63.8 (2001): 1293-1313.
 - Stat 260/CS 294 Bayesian Modeling and Inference, UC Berkley https://www.biorxiv.org/content/10.1101/240317v2
