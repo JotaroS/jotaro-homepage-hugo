@@ -71,7 +71,7 @@
           {{ with $project.Params.image_preview }}
           <a href="{{ $.Scratch.Get "project_url" }}" title="" class="card-image hover-overlay"
              {{ $.Scratch.Get "target" | safeHTMLAttr }}>
-            <img src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+            <img class='publications' src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
           </a>
           {{ end }}
           </div>

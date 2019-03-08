@@ -59,6 +59,8 @@ __Exhibitions / Invited Exhibitions__
 
 - ゆらゆら立体灯，マジカリアル～ＶＲ・ＡＲが作り出す不思議体験～，SKIPシティ 彩の国ビジュアルプラザ　映像ミュージアム
 
+- Cyber Interface Lab Exhibition "Cybernetic Minds", the University of Tokyo, 2017
+
 - Agricultural Revolution 3.0 "第三の農業革命 もう一つの未来に映る 希望的な世界", Farmbot, 山形県鶴岡市, [http://agri-revolution3.com/](http://agri-revolution3.com/)
 
 __Talks__

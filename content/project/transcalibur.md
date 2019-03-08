@@ -30,7 +30,7 @@ caption = "Transcalibur"
 
 ---
 
-{{< youtube id="TJA7psWM8sY" autoplay="false" >}}
+{{< youtube id="OiSbn6D5kwA" autoplay="false" >}}
 
 ---
 <br>
@@ -47,7 +47,7 @@ Humans can estimate the shape of a wielded object through the illusory feeling o
 
 #### Hardware
 
-The weight moving mechanism is designed to move along the 2D planner space and to be _non-backdrivable_. The _angular mechanism_ enables to rotate two arms, and _weight mechanisms_ enables to shift the position of the weight module independently.
+The weight moving mechanism is designed to move along the 2D planner space and to be _non-backdrivable_. The _angular mechanism_ enables to rotate two arms, and _weight mechanisms_ enable to shift the position of the weight module independently.
 
 <center> <img class='half' src='/img/transform.gif'> <img class='half' src='/img/transcalibur-hardware.png'></center>
 
@@ -62,10 +62,10 @@ From the model, we determine the mass properties of the VR controller that optim
 In this manner, we can easily and efficiently render an arbitrary 2D shape through the controller.
 
 
-we assumed a perception model $f$ that maps the physical configuration of the controller $\phi$ to the perceived shape of the wielded object in VR $\psi$:
+We assumed a perception model $f$ that maps the physical configuration of the controller $\phi$ to the perceived shape of the wielded object in VR $\psi$:
 
 $$
-  f: \phi \mapsto \psi
+f: \phi \mapsto \psi
 $$
 
 <img src='/img/transcalibur-approach.png'>
