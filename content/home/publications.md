@@ -21,7 +21,7 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, CHI2019, Glasgow, Scotland, UK.
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, CHI2019, Glasgow, Scotland, UK. <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
 
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
@@ -37,7 +37,7 @@ __Poster / Demo__ _(Peer Reviewed)_
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies, August 2018
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster, August 2018, <u style="background-color:#ddd">___SIGGRAPH Student Research Competition Semi-Finalist___</u>
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Dynamic 2D Haptic Shape Illusion of Virtual Object by Weight Moving VR Controller, SIGGRAPH 2018 Poster, August 2018, <u style="color:#FF3F80">___[SIGGRAPH Student Research Competition Semi-Finalist]___</u>
 
 - Yuji Suzuki, <u>__Jotaro Shigeyama__</u>, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Food Texture Manipulation by Face Deformation, SIGGRAPH 2018 Poster, August 2018
 

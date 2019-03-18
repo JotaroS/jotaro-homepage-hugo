@@ -22,6 +22,11 @@ weight = 1
 # List your Awards and honors if any
 
 [[honors.awards]]
+  name = "CHI2019 Best Paper Honorable Mention"
+  description = "Project Transcalibur"
+  year = 2019
+
+[[honors.awards]]
   name = "HATAKEYAMA award"
   description = "Japan Society of Mechanical Engineering, Best Student Award"
   year = 2014

@@ -6,7 +6,7 @@ date = "2019-03-01"
 title = "Project Transcalibur"
 
 # Project summary to display on homepage.
-summary = "Weight Moving VR Controller for Dynamic Rendering of 2D Shape Using Haptic Shape Illusion <br><br><br><br> Full-Paper will be presented in CHI 2019, Glasgow, Scotland"
+summary = "Weight Moving VR Controller for Dynamic Rendering of 2D Shape Using Haptic Shape Illusion <br><br><br><br><br><br> <img src='img/hm.png' style='width:30px; min-height:30px; margin-bottom:0px;'><u style='color:#FF3F80'>___[Full-paper got awarded Honorable Mention at CHI2019]___ </u>"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "transcalibur.jpg"
@@ -38,6 +38,10 @@ caption = "Transcalibur"
 
 #### Abstract
 Humans can estimate the shape of a wielded object through the illusory feeling of the mass properties of the object obtained using their hands. Even though the shape of hand-held objects influences immersion and realism in virtual reality (VR), it is difficult to design VR controllers for rendering desired shapes according to the perceptions derived from the illusory effects of mass properties and shape perception. We propose Transcalibur, which is a hand-held VR controller that can render a 2D shape by changing its mass properties on a 2D planar area. We built a computational perception model using a data-driven approach from the collected data pairs of mass properties and perceived shapes. This enables Transcalibur to easily and effectively provide convincing shape perception based on complex illusory effects. Our user study showed that the system succeeded in providing the perception of various desired shapes in a virtual environment.  
+
+#### Award:
+
+<img src='/img/hm.png' style='width:30px; min-height:30px; margin-bottom:0px;'> This paper has been awarded a Best Paper Honorable Mention at CHI2019.
 
 ---
 
@@ -101,6 +105,11 @@ Based on the demonstration and experiment, we succeeded in rendering various sha
 As a future work, we further investigate details on time factor of shape changing in VR, and we aim to develop a simpler design and yet maximizes range of rendering shape.
 
 ---
+<br>
+
+CHI2019 Technical Paper
+
+___Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model___
 
 #### Authors:
 
