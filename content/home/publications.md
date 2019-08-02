@@ -21,9 +21,11 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, CHI2019, Glasgow, Scotland, UK. <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
+- One accepted paper for UIST2019, New Orleans, LA, The United States.
 
-- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, CHI2019, Glasgow, Scotland, UK. [Acceptance Rate: _23.8%_] <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
+
+- Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018 [Acceptance Rate: _21.3%_]
 
 - <u>__Jotaro Shigeyama__</u>, Nami Ogawa, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Presenting resistive force by modifying joint angles of an avatar, VRSJ Jounal Special Issue, Vol.22, No.3, 2017
 
@@ -61,7 +63,7 @@ __Exhibitions / Invited Exhibitions__
 
 - Cyber Interface Lab Exhibition "Cybernetic Minds", the University of Tokyo, 2017
 
-- Agricultural Revolution 3.0 "第三の農業革命 もう一つの未来に映る 希望的な世界", Farmbot, 山形県鶴岡市, [http://agri-revolution3.com/](http://agri-revolution3.com/)
+- Agricultural Revolution 3.0 "第三の農業革命 もう一つの未来に映る 希望的な世界", Farmbot, 山形県鶴岡市, [http://agri-revolution3.com/](http://agri-revolution3.com/), collaborated project with [http://eugene-kangawa.com/](Eugene Kangawa)
 
 __Talks__
 
@@ -71,7 +73,7 @@ __Talks__
 
 __Articles__
 
-- ワクワク留学体験記, 日本バーチャルリアリティ学会　学会誌, To Appear
+- ワクワク留学体験記, 日本バーチャルリアリティ学会　学会誌, 2019/03
 
 - 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
@@ -89,6 +91,7 @@ __Media__
 
 __Awards and honors__
 
+- CHI2019 Best Paper Honorable Mention, 2019
 - SIGGRAPH Student Research Competition (SRC) Semi-Finalist for _Transcalibur_, 2018
 
 - U-Tokyo Architecture graduation work ___NAKAMURA-TATSUTARO___ Award for Project:CoPRO : collaborated with _Takato Ishida_
