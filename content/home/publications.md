@@ -21,9 +21,9 @@ detailed_list = false
 +++
 __Publications / Journals__ _(Peer Reviewed)_
 
-- One accepted paper for UIST2019, New Orleans, LA, The United States.
+- Thijs Roumen, <u>__Jotaro Shigeyama__</u>, Julius Romeo Cosmo Rudolph, Felix Grzelka, and Patrick Baudisch: SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter, In Proceedings of UIST'19, October, 2019, New Orleans, LA, US.
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, CHI2019, Glasgow, Scotland, UK. [Acceptance Rate: _23.8%_] <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, In Proceedings of CHI2019, Glasgow, Scotland, UK. [Acceptance Rate: _23.8%_] <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
 
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018 [Acceptance Rate: _21.3%_]
 
