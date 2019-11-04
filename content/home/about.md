@@ -27,6 +27,11 @@ weight = 1
   year = 2019
 
 [[honors.awards]]
+  name = "Fellowship of Funai Foundation of Information Technology"
+  description = "Scholarship of 2500USD / month"
+  year = 2019
+
+[[honors.awards]]
   name = "HATAKEYAMA award"
   description = "Japan Society of Mechanical Engineering, Best Student Award"
   year = 2014

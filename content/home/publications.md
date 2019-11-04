@@ -102,8 +102,13 @@ __Awards and honors__
 
 __Fellowship and Grants__
 
-- Fellowship of [Funai Foundation for Information Technology](https://funaifoundation.jp/) (2019-, top <10% Ph.D applicants for abroad in Japan)
+- Fellowship of [Funai Foundation for Information Technology](https://funaifoundation.jp/) (2019-, top <10% Ph.D applicants for abroad in Japan, 2500USD per month)
+
 - Grant of scholarship from Hasso Plattner Institute
+
+__Teaching__
+
+- Building Interactive Devices and Computer Vision, WS2019/20, Hasso Plattner Institute.
 
 __Academic Services__
 
@@ -114,6 +119,8 @@ _Organizing Committees_
 
 _Reviewer_
 
+ - to appear(1)
+ - to appear(2)
  - ACM SIGGRAPH Asia 2018
 
  _Student Volunteer_
