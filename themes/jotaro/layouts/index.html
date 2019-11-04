@@ -3,7 +3,7 @@
         <!-- Widgets -->
         {{ range $index, $page := where .Data.Pages "Type" "home" }}
         {{ $params := dict "root" $ "page" $page }}
-        {{ $widget := printf "widgets/%s.html" ( or $page.Params.widget "custom" ) }}
+        {{ $widget := printf "widgets/%s.html" ( or $page.Params.widget "about" ) }}
                 {{ partial $widget $params }}
         {{end}}
         <br>
