@@ -35,6 +35,8 @@ __Publications / Journals__ _(No Review)_
 
 __Poster / Demo__ _(Peer Reviewed)_
 
+- Thijs Roumen, <u>__Jotaro Shigeyama__</u>, Julius Romeo Cosmo Rudolph, Felix Grzelka, and Patrick Baudisch: SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter, In Proceedings of UIST'19, October, 2019, New Orleans, LA, US.
+
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies, August 2018
@@ -72,6 +74,8 @@ __Talks__
 - 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​
 
 __Articles__
+
+- ACM UIST2019 参加報告, 日本バーチャルリアリティ学会　ニューズレター, 2019/11
 
 - ワクワク留学体験記, 日本バーチャルリアリティ学会　学会誌, 2019/03
 
