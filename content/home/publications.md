@@ -123,8 +123,8 @@ _Organizing Committees_
 
 _Reviewer_
 
- - to appear(1)
- - to appear(2)
+ - IEEE Transaction on Haptics 2020 
+ - ACM CHI2020
  - ACM SIGGRAPH Asia 2018
 
  _Student Volunteer_
