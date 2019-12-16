@@ -35,7 +35,9 @@ We present a software tool called springFit that resolves this problem by replac
 
 ---
 
-In this projet, Jotaro has contributed to the system that automatically generates ideal parameters of the spring geometry: cantilver spring that produces aimed forces and deflection and will not break easily. Based on the _Euler-Bernoulli cantilver theory_, Jotaro has build C++ executable system that optimizes the spring geometry based on given geometric constraints.
+### Jotaro's contribution
+
+In this project, Jotaro has contributed to the system that automatically generates ideal parameters of the spring geometry: cantilver spring that produces aimed forces and deflection and will not break easily. Based on the _Euler-Bernoulli cantilver theory_, Jotaro has build C++ executable system that optimizes the spring geometry based on given geometric constraints.
 
 For more details, paper and video, visit [here](https://hpi.de/baudisch/projects/springfit.html).
 
