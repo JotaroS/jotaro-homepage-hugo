@@ -23,15 +23,21 @@ math = false
 
 +++
 
-![Pantograph](/img/springfit.png) 
+![springfit](/img/springfit.png) 
 
 ---
+
+### Abstract
 
 Joints are crucial to laser cutting as they allow making three-dimensional objects; mounts are crucial because they allow embedding technical components, such as motors. Unfortunately, mounts and joints tend to fail when trying to fabricate a model on a different laser cutter or from a different material. The reason for this lies in the way mounts and joints hold objects in place, which is by forcing them into slightly smaller openings. Such “press fit” mechanisms unfortunately are susceptible to the small changes in diameter that occur when switching to a machine that removes more or less material (“kerf”), as well as to changes in stiffness, as they occur when switching to a different material.
 
 We present a software tool called springFit that resolves this problem by replacing the problematic press fit-based mounts and joints with what we call cantileverbased mounts and joints. A cantilever spring is simply a long thin piece of material that pushes against the object to be held. Unlike press fits, cantilever springs are robust against variations in kerf and material; they can even handle very high variations, simply by using longer springs. SpringFit converts models in the form of 2D cutting plans by replacing all contained mounts, notch joints, finger joints, and t-joints.
 
-For more details visit [here](https://hpi.de/baudisch/projects/springfit.html).
+---
+
+In this projet, Jotaro has contributed to the system that automatically generates ideal parameters of the spring geometry: cantilver spring that produces aimed forces and deflection and will not break easily. Based on the _Euler-Bernoulli cantilver theory_, Jotaro has build C++ executable system that optimizes the spring geometry based on given geometric constraints.
+
+For more details, paper and video, visit [here](https://hpi.de/baudisch/projects/springfit.html).
 
 ---
 
