@@ -37,6 +37,8 @@ __Poster / Demo__ _(Peer Reviewed)_
 
 - Thijs Roumen, <u>__Jotaro Shigeyama__</u>, Julius Romeo Cosmo Rudolph, Felix Grzelka, and Patrick Baudisch: SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter, In Proceedings of UIST'19, October, 2019, New Orleans, LA, US.
 
+- Jotaro Shigeyama, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose. 2019. Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA ’19). Association for Computing Machinery, New York, NY, USA
+
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Emerging Technologies, August 2018
