@@ -71,6 +71,8 @@ __Exhibitions / Invited Exhibitions__
 
 __Talks__
 
+- CHI2019勉強会 Guest talk
+
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations, August 2018.
 
 - 小川奈美，<u>__茂山丈太郎__</u>，鳴海拓志，谷川智洋，廣瀬通孝．ゆらゆら立体灯：平面画像​に奥行きを付加するプロジェクション手法​．第22回日本バーチャルリアリティ学会大会．2017年9月​

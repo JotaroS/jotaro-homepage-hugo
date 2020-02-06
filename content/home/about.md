@@ -33,7 +33,7 @@ weight = 1
 
 [[honors.awards]]
   name = "HATAKEYAMA award"
-  description = "Japan Society of Mechanical Engineering, Best Student Award"
+  description = "Japan Society of Mechanical Engineering, the Best Student Award"
   year = 2014
 
 # List your qualifications (such as academic degrees).
@@ -44,23 +44,18 @@ weight = 1
   year = 2018
 
 [[education.courses]]
-  course = "Master's student in University of Potsdam"
-  institution = "The University of Potsdam"
-  year = 2018
-
-[[education.courses]]
   course = "Master's student in Cyber Interface Lab"
   institution = "The University of Tokyo with Prof. Michitaka Hirose"
   year = 2017
 
 [[education.courses]]
   course = "BSc in Mechano-Informatics"
-  institution = "The University of Tokyo (2014-2017), with Prof. Michitaka Hirose"
+  institution = "The University of Tokyo, Faculty of Engineering (2014-2017), with Prof. Michitaka Hirose"
   year = 2017
 
 [[education.courses]]
   course = "A.Sc in Mechanical and Electrical Engineering"
-  institution = "Tokuyama College of Technology, The top on the list (2009-2014), with Prof. Kurt Fischer"
+  institution = "Tokuyama National College of Technology, The top on the list (2009-2014), with Prof. Kurt Fischer"
   year = 2014
 
 
