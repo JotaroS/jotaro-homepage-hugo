@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
+title = ""
 draft = true
 Description = ""
 Tags = []

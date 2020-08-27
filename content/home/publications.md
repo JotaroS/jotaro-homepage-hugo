@@ -19,11 +19,16 @@ count = 10
 detailed_list = false
 
 +++
+
+> My papers are presented in various top-tier conferences in the field of Human-Computer Interaction (HCI) such as ACM CHI, UIST.
+
 __Publications / Journals__ _(Peer Reviewed)_
+
+- Thijs Roumen, Ingo Apel, <u>__Jotaro Shigeyama__</u>, Abdullah Muhammad, and Patrick Baudisch: Kerf-Canceling Mechanisms: Making Laser-Cut Mechanisms Operate Across Different Laser Cutters, In Proceedings of UIST'20, October, 2020, Minneapolis, MN, US. 
 
 - Thijs Roumen, <u>__Jotaro Shigeyama__</u>, Julius Romeo Cosmo Rudolph, Felix Grzelka, and Patrick Baudisch: SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter, In Proceedings of UIST'19, October, 2019, New Orleans, LA, US.
 
-- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, In Proceedings of CHI2019, Glasgow, Scotland, UK. [Acceptance Rate: _23.8%_] <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention]___</u>
+- <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Takuji Narumi, Tomohiro Tanikawa, and Michitaka Hirose: Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rendering based on Computational Perception Model, In Proceedings of CHI2019, Glasgow, Scotland, UK. [Acceptance Rate: _23.8%_] <u style="color:#FF3F80">___[CHI2019 Best Paper Honorable Mention(TOP 5%)]___</u>
 
 - Oliver Schneider, <u>__Jotaro Shigeyama__</u>, Robert Kovacs, Thijs Roumen, Sebastian Marwecki, Nico Boeckhoff, Daniel-Amadeus Gloeckner, Jonas Bounama and Patrick Baudisch, DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds, In Proceedings of UIST'18, October, 2018 [Acceptance Rate: _21.3%_]
 
@@ -83,6 +88,8 @@ __Articles__
 
 - ワクワク留学体験記, 日本バーチャルリアリティ学会　学会誌, 2019/03
 
+- 徳山高専だより 2017年度 No.71, 2017 [link](https://jotaros.github.io/articles/71.pdf)
+
 - 手描き回路がそのまま動く！RCローパス・フィルタも紙カード上に「表面実装」:描いて貼って出来上がり！電子メッセージ。カード作り, 茂山丈太郎, 清水信哉, トラ技Jr. 23号, 2015
 
 __Patents__
@@ -127,6 +134,7 @@ _Organizing Committees_
 
 _Reviewer_
 
+ - ACM UIST2020
  - IEEE Transaction on Haptics 2020 
  - ACM CHI2020
  - ACM SIGGRAPH Asia 2018
