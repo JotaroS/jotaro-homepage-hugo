@@ -24,6 +24,10 @@ detailed_list = false
 
 __Publications / Journals__ _(Peer Reviewed)_
 
+- One paper has been accepted for ACM UIST2021.
+
+- Muhammad Abdullah, Martin Taraz, Yannis Kommana, Shohei Katakura, Robert Kovacs, <u>__Jotaro Shigeyama__</u>,  Thijs Roumen , and Patrick Baudisch: Fastforce: Real-Time Reinforcement of Laser-Cut Structures　to be published in Proceedings of CHI'21.
+
 - Thijs Roumen, Ingo Apel, <u>__Jotaro Shigeyama__</u>, Abdullah Muhammad, and Patrick Baudisch: Kerf-Canceling Mechanisms: Making Laser-Cut Mechanisms Operate Across Different Laser Cutters, In Proceedings of UIST'20, October, 2020, Minneapolis, MN, US. 
 
 - Thijs Roumen, <u>__Jotaro Shigeyama__</u>, Julius Romeo Cosmo Rudolph, Felix Grzelka, and Patrick Baudisch: SpringFit: Joints and Mounts that Fabricate on Any Laser Cutter, In Proceedings of UIST'19, October, 2019, New Orleans, LA, US.
@@ -76,6 +80,10 @@ __Exhibitions / Invited Exhibitions__
 
 __Talks__
 
+- [アカデミックナイト　Unityを学術研究に使用する気鋭の若手研究者によるパネルトーク](https://learning.unity3d.jp/6820/), Unity Japan.
+
+- 米国大学院学生会　コンピューターサイエンス海外大学院留学オンライン説明会
+
 - CHI2019勉強会 Guest talk
 
 - <u>__Jotaro Shigeyama__</u>, Takeru Hashimoto, Shigeo Yoshida, Taiju Aoki, Takuji Narumi, Tomohiro Tanikawa and Michitaka Hirose: Transcalibur : Weight Moving VR Controller for Dynamic Rendering of 2D Shape using Haptic Shape Illusion, SIGGRAPH 2018 Experience Presentations, August 2018.
@@ -107,9 +115,8 @@ __Media__
 __Awards and honors__
 
 - CHI2019 Best Paper Honorable Mention, 2019
-- SIGGRAPH Student Research Competition (SRC) Semi-Finalist for _Transcalibur_, 2018
 
-- U-Tokyo Architecture graduation work ___NAKAMURA-TATSUTARO___ Award for Project:CoPRO : collaborated with _Takato Ishida_
+- SIGGRAPH Student Research Competition (SRC) Semi-Finalist for _Transcalibur_, 2018
 
 - HackU 2015 UTxTama-art  ___Grand Prize___ for Dokimakura
 
@@ -123,21 +130,25 @@ __Fellowship and Grants__
 
 __Teaching__
 
-- Building Interactive Devices and Computer Vision, WS2019/20, Hasso Plattner Institute.
+- [Building Interactive Devices and Computer Vision](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-20-21-3062-building-interactive-devices.html), WS2020/21, Hasso Plattner Institute.
+- [Building Interactive Devices and Computer Vision](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-20-21-3062-building-interactive-devices.html), WS2019/20, Hasso Plattner Institute.
 
 __Academic Services__
 
 _Organizing Committees_
-
+ - ACM UIST2021 ___Digital Participation Co-Chair___
  - ACM UIST2019 ___Registration Chair___
  - ACM UIST2018 ___Registration Co-Chair___
 
 _Reviewer_
-
+ - ACM SIGGRAPH Asia 2021 (E-tech)
+ - 情報処理学会
+ - MobileHCI 2021
+ - ACM CHI2021
  - ACM UIST2020
  - IEEE Transaction on Haptics 2020 
  - ACM CHI2020
- - ACM SIGGRAPH Asia 2018
+ - ACM SIGGRAPH Asia 2018 (E-tech)
 
  _Student Volunteer_
 
