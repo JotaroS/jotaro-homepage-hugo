@@ -130,25 +130,28 @@ __Fellowship and Grants__
 
 __Teaching__
 
+- [Building Interactive Devices and Computer Vision](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-20-21-3062-building-interactive-devices.html), WS2021/22, Hasso Plattner Institute.
 - [Building Interactive Devices and Computer Vision](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-20-21-3062-building-interactive-devices.html), WS2020/21, Hasso Plattner Institute.
 - [Building Interactive Devices and Computer Vision](https://hpi.de/studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-20-21-3062-building-interactive-devices.html), WS2019/20, Hasso Plattner Institute.
 
 __Academic Services__
 
 _Organizing Committees_
- - ACM UIST2021 ___Digital Participation Co-Chair___
+
+ - ACM UIST2021 ___Digital Participation Sub-Chair___
  - ACM UIST2019 ___Registration Chair___
  - ACM UIST2018 ___Registration Co-Chair___
 
 _Reviewer_
- - ACM SIGGRAPH Asia 2021 (E-tech)
+
+ - ACM SIGGRAPH Asia 2021 E-tech
  - 情報処理学会
  - MobileHCI 2021
  - ACM CHI2021
  - ACM UIST2020
  - IEEE Transaction on Haptics 2020 
  - ACM CHI2020
- - ACM SIGGRAPH Asia 2018 (E-tech)
+ - ACM SIGGRAPH Asia 2018 E-tech
 
  _Student Volunteer_
 
