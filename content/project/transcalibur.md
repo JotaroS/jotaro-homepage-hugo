@@ -9,7 +9,7 @@ title = "Project Transcalibur"
 summary = "Weight Moving VR Controller for Dynamic Rendering of 2D Shape Using Haptic Shape Illusion <br><br><br><br><br><br> <img src='img/hm.png' style='width:30px; min-height:30px; margin-bottom:0px;'><u style='color:#FF3F80'>___[Full-paper got awarded Honorable Mention at CHI2019]___ </u>"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "transcalibur.jpg"
+image_preview = "transcalibur-neu.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -46,6 +46,14 @@ Humans can estimate the shape of a wielded object through the illusory feeling o
 ---
 
 <img src='/img/transcalibur-teaser.png' width='100%'>
+
+---
+
+<img src='/img/transcalibur-neu.jpg' width='100%'>
+
+---
+
+<img src='/img/transcalibur-neu-zwei.JPG' width='100%'>
 
 ---
 

@@ -24,9 +24,9 @@ detailed_list = false
 
 __Publications / Journals__ _(Peer Reviewed)_
 
-- One paper has been accepted for ACM UIST2021.
+- Robert Kovacs, Lukas Rambold, Lukas Fritzsche, Dominik Meier, <u>__Jotaro Shigeyama__</u>, Shohei Katakura, Ran Zhang, Patrick Baudisch, Trusscillator: a System for Fabricating Human-Scale Human-Powered Oscillating Devices, In Proceedings of UIST'21, October, 2020, Virtual. <u style="color:#FF3F80">___[UIST2021 Best Demo Award Honorable Mention]___</u>
 
-- Muhammad Abdullah, Martin Taraz, Yannis Kommana, Shohei Katakura, Robert Kovacs, <u>__Jotaro Shigeyama__</u>,  Thijs Roumen , and Patrick Baudisch: Fastforce: Real-Time Reinforcement of Laser-Cut Structures　to be published in Proceedings of CHI'21.
+- Muhammad Abdullah, Martin Taraz, Yannis Kommana, Shohei Katakura, Robert Kovacs, <u>__Jotaro Shigeyama__</u>,  Thijs Roumen , and Patrick Baudisch: Fastforce: Real-Time Reinforcement of Laser-Cut Structures, in Proceedings of CHI'21.
 
 - Thijs Roumen, Ingo Apel, <u>__Jotaro Shigeyama__</u>, Abdullah Muhammad, and Patrick Baudisch: Kerf-Canceling Mechanisms: Making Laser-Cut Mechanisms Operate Across Different Laser Cutters, In Proceedings of UIST'20, October, 2020, Minneapolis, MN, US. 
 
@@ -113,6 +113,8 @@ __Media__
 - [東京大学、1台のハンドヘルドコントローラでVR内の様々な形状の触覚を再現できるVRデバイスを発表](https://shiropen.com/seamless/vr-transcalibur) ,Seamless, 2018
 
 __Awards and honors__
+
+- UIST2021 Best Demo Award Honorable Mention, 2021
 
 - CHI2019 Best Paper Honorable Mention, 2019
 
