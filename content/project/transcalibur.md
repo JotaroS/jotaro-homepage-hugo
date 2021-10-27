@@ -134,6 +134,10 @@ ___Transcalibur: A Weight Shifting Virtual Reality Controller for 2D Shape Rende
 <a href='/transcalibur/shigeyama-preprint.pdf'>Preprint Paper (PDF 7MB)</a> -//-  <a href='/transcalibur/transcalibur-movie.mp4'> Movie (MP3 20MB)</a>  -//-    <a href='/transcalibur/presskit.zip'> Press Kit (ZIP Archive 20MB)</a>
 
 
+#### Acknowledgement:
+
+We thank Yuji Suzuki and Isamu Ohashi for their help during the SIGGRAPH2018 e-tech exhibition. We thank Leo Matsumura for the engineering and development of next-version prototype "Transcalibur-neu".
+
 #### Archive:
 
 Previously presented SIGGRAPH2018 E-tech Promotion can be seen [here.](http://www.cyber.t.u-tokyo.ac.jp/~jotaro/transcalibur_web/)
