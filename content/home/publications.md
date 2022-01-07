@@ -140,6 +140,7 @@ __Academic Services__
 
 _Organizing Committees_
 
+ - ACM UIST2022 ___Discord Chair___
  - ACM UIST2021 ___Digital Participation Sub-Chair___
  - ACM UIST2019 ___Registration Chair___
  - ACM UIST2018 ___Registration Co-Chair___
