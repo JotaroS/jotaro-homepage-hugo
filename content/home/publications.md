@@ -160,6 +160,19 @@ _Reviewer_
 
  - ACM CHI2018 Student Volunteer
 
+__Skills__
+ 
+ - Mechanical Engineering (CAD, CAM, CNC, Mechatronics)
+ - Electrical Engineering (Microcontroller, PCB Design, Opamp)
+ - Programming
+    - C | C++ | Objective-C, Swift | Unity-C#
+    - Python
+    - HTML | JS | CSS | React
+ - Deep Learning / ML
+    - SKLearn
+    - Keras
+
 __Others__
 
 - Japan Olympiad in Informatics 2010-2011, Finalist
+    - GNU C++
