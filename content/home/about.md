@@ -64,16 +64,16 @@ weight = 1
 +++ 
 <!-- Your profile description here... -->
 <p id='language_display'>
-Jotaro Shigeyama (born in 1993) is currently a Master's student at Hasso Plattner Institute in University of Potsdam / Cyber Interface Lab, the University of Tokyo. He is also a Ph.D candidate in Hasso Plattner Institute in University of Potsdam, with Prof. Patrick Baudisch. 
-He is a fellow student of Funai Fountation for Information Technology since 2019.
-He is studying computer science in the graduate school of The University of Tokyo, after finished Associate degree in mechanical and electrical engineering in Tokuyama college of technology and Bachelor's degree in mechano-informatics engineering in the University of Tokyo with Prof. Michitaka Hirose.
-He received _HATAKEYAMA_ award for his academic excellency in mechanical engineering.
+Jotaro Shigeyama (born in 1993) is currently a Ph.D candidate in Hasso Plattner Institute in University of Potsdam, with Prof. Patrick Baudisch.
+He earned Bachelor & Master degree in Cyber Interface Lab with Prof. Michitaka Hirose in the University of Tokyo.
+He is a scholar of Funai Fountation for Information Technology scholarship since 2019.
 His project was presented in various top-tier international conference including _ACM SIGGRAPH / CHI / UIST.
-His current research area is haptics, virtual reality and human computer interaction.
+His work has been awarded in such venue such as CHI Best Paper Nomination or SIGGRAPH SRC Semi-Finalist.
+
 </p>
 
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
 		window.onload = function() {
 		display();
@@ -95,6 +95,6 @@ His current research area is haptics, virtual reality and human computer interac
 			language_flg = 0;
 		}
 		display();
-	}
+	} -->
 
-</script>
+<!-- </script>   -->

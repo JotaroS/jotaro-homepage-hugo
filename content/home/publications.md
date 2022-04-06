@@ -145,6 +145,10 @@ _Organizing Committees_
  - ACM UIST2019 ___Registration Chair___
  - ACM UIST2018 ___Registration Co-Chair___
 
+_Program Committees_
+
+ - ACM CHI2022 LBW
+
 _Reviewer_
 
  - ACM SIGGRAPH Asia 2021 E-tech
